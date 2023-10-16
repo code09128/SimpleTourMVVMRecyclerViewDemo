@@ -1,5 +1,5 @@
 # SimpleTourMVVMRecyclerViewDemo
-Simple Tour App Demo use mvvm architecture 
+## Simple Tour App Demo use mvvm architecture 
 
 # OpenAPI 
 https://www.travel.taipei/open-api/swagger/ui/index#/Attractions/Attractions_All
@@ -55,22 +55,22 @@ Util
 RetrofitHelp
 
 # Show UI
-## show loading data
+show loading data
 <div  align="center">
 <img src="https://github.com/code09128/SimpleTourMVVMRecyclerViewDemo/assets/32324308/13ca77a8-70b9-4525-8e93-def6f6038ddf" width="350px"/>
 </div>
 
-## select language
+select language
 <div  align="center">
 <img src="https://github.com/code09128/SimpleTourMVVMRecyclerViewDemo/assets/32324308/70ea2eaf-1a68-4e78-9100-6fdf1f840643" width="350px"/>
 </div>
 
-## Display user change language
+Display user change language
 <div  align="center">
 <img src="https://github.com/code09128/SimpleTourMVVMRecyclerViewDemo/assets/32324308/c271471a-8ee8-45f2-8919-2498599d6cbd" width="350px"/>
 </div>
 
-## Detail Tour information & WebView info
+Detail Tour information & WebView info
 <div  align="center">
 <img src="https://github.com/code09128/SimpleTourMVVMRecyclerViewDemo/assets/32324308/04aac19d-578b-43ea-8a28-f6bbd950b2e3" width="350px"/>
 </div>
