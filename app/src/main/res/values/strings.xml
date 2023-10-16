@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SimpleMVVMRecyclerViewDemo</string>
+    <string name="tour">旅遊景點</string>
+
+    <string name="address">地址</string>
+    <string name="tel">電話</string>
+    <string name="URLTitle">網址</string>
+
+    <string name="choiceLang">選擇語言</string>
+    <string name="zhTw">繁體中文(zh-Tw)</string>
+    <string name="zhCn">簡體中文(zh-Cn)</string>
+    <string name="eng">英文(en)</string>
+    <string name="ja">日文(ja)</string>
+    <string name="ko">韓文(ko)</string>
+    <string name="es">西班牙文(es)</string>
+    <string name="id">印尼文(id)</string>
+    <string name="th">泰文(th)</string>
+    <string name="vi">越南文(vi)</string>
+</resources>
